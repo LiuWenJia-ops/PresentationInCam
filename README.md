@@ -2,12 +2,12 @@
 
 Table of Contents:
 
-1. Introduction 5min
+1. Introduction _5min_
 2. AI application in Healthcare
-    1. Personal Scope
-    2. Corporational Scope
-    3. Nationwide
-3. Summary & Future
+    1. Personal Scope _5min_
+    2. Corporational Scope _5min_
+    3. Nationwide _5min_
+3. Summary & Future _5min_
 
 # Outline
 
