@@ -11,13 +11,13 @@ Table of Contents:
 
 # Outline
 
-## Introduce##
+## Introduce
 
 - Government investment
 
   - USA
 
-    Investments from the US government in healthcare initiatives that will rely on AI[[41\]](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare#cite_note-auto4-41) include its \$1B proposed budget for the and  \$ 215M proposed investment in the [Precision Medicine Initiative](https://en.wikipedia.org/wiki/Precision_Medicine_Initiative).[[45\]](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare#cite_note-45) 
+    Investments from the US government in healthcare initiatives that will rely on AI[[41\]](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare#cite_note-auto4-41) include its \$1B proposed budget for the and  \$ 215M proposed investment in the [Precision Medicine Initiative](https://en.wikipedia.org/wiki/Precision_Medicine_Initiative).[[45\]](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare#cite_note-45)
 
   - UK
 
@@ -25,7 +25,7 @@ Table of Contents:
 
     The deal includes funding for 1,000 AI PhDs, a new Centre for Data Ethics and Innovation, and training 8,000 specialist computer science teachers to ensure there is one in every secondary school.
 
-    "Artificial intelligence is at the centre of our plans to make the UK the best place in the world to start and grow a digital business," Matt Hancock, the secretary of state for Digital, Culture, Media and Sport, said in a statement. 
+    "Artificial intelligence is at the centre of our plans to make the UK the best place in the world to start and grow a digital business," Matt Hancock, the secretary of state for Digital, Culture, Media and Sport, said in a statement.
 
     https://www.computerworlduk.com/data/uk-government-announces-1-billion-investment-in-ai-3676295/
 
@@ -53,7 +53,7 @@ Table of Contents:
 
     10月21日，世界机器人大会在北京亦创国际会展中心开幕，25日圆满落幕，此次大会有几个人工智能医疗产品令人难忘，代表作是“变形金刚”胶囊，吞下后短短一分钟就在胃里完成变身，锁定病灶，拍照，回传。
 
-  - Medical and technological advancements occurring over this half-century period that have simultaneously enabled the growth healthcare-related applications of AI include: 
+  - Medical and technological advancements occurring over this half-century period that have simultaneously enabled the growth healthcare-related applications of AI include:
 
     - Improvements in [computing power](https://en.wikipedia.org/wiki/Computer_performance) resulting in faster data collection and data processing[[16\]](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare#cite_note-16)
     - Increased volume and availability of health-related data from personal and healthcare-related devices[[17\]](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare#cite_note-17)
@@ -63,36 +63,43 @@ Table of Contents:
     - Enhanced the precision of [robot-assisted surgery](https://en.wikipedia.org/wiki/Robot-assisted_surgery) [[22\]](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare#cite_note-22)
     - (接下来我会着重介绍以下三个主题...
 
-
-
 ## Personal Scope
 
-* Challenges in medical diagnosis
+- Challenges in medical diagnosis
 
-* AI in early dedection of cancer
+- AI in early dedection of cancer
 
-  * a deep learning algorithm to diagnose skin cancer
+  - a deep learning algorithm to diagnose skin cancer
 
-* AI in Pathology 
+- AI in Pathology
 
-  * a deep learning algorithm to observe biopsy
+  - a deep learning algorithm to observe biopsy
 
-* Some concluding thoughts on diagnostic AI
-
-
+- Some concluding thoughts on diagnostic AI
 
 ## Summary
 
-* Review of the above three
-* Something about AI itself
-  * Why do we want AI?
-    * liberate and expand the productive forces
-    * some philosophy views
-  * It's moving forward, but still a long way to go -- deep learning as an example
-    * Increasing dataset sizes
-    * Increasing Number of connections per neuron
-    * Increasing Neuron network size
-    * Decreasing error rate
-* Something about Al's future
-  * Scientific fiction / movies
-* Back to healthcare industry
+- Review of the above three
+- Something about AI itself
+  - Why do we want AI?
+    - liberate and expand the productive forces
+    - some philosophy views
+  - It's moving forward, but still a long way to go -- deep learning as an example
+    - Increasing dataset sizes
+    - Increasing Number of connections per neuron
+    - Increasing Neuron network size
+    - Decreasing error rate
+- Something about Al's future
+  - Inspiration from Scientific fiction / movies / games --- "They are not only stories, but maybe out future."
+    - Isaac Asimov's "Three Laws of Robotics" in _I, Robot_
+      1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+      2. A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
+      3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+    - Enhanced Turing test from Nathan in _Ex Machina_
+      - Turing test can't judge real intelligence
+      - communicate with human face to face
+      - Emotion
+    - _Doraemon_ and _Detroit: Become Human_
+      - Harmony or Revolution?
+  - What we've prepared
+- Back to healthcare industry
