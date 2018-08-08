@@ -80,14 +80,14 @@ Table of Contents:
 ## Institutional Scope
 
 - Some problems with healthcare institutions
-    -tbc
+  - tbc
 - AI can be your personal health expert
-    - Online Doctor Consultations & Advice by Babylon Health Company
+  - Online Doctor Consultations & Advice by Babylon Health Company
 - AI in hospital management
-    - Analytics MD
+  - Analytics MD
 - AI in biomedical research
-    - perfect tool to help analyse complex data, reveal hidden patterns between diseases
-    - drug discovery --- Atomwise
+  - perfect tool to help analyse complex data, reveal hidden patterns between diseases
+  - drug discovery --- Atomwise
 
 ## Summary
 
@@ -114,4 +114,7 @@ Table of Contents:
     - _Doraemon_ and _Detroit: Become Human_
       - Harmony or Revolution?
   - What we've prepared
+    - Development in robot ethics
 - Back to healthcare industry
+  - Replace doctors and nurses
+  - The accountability
