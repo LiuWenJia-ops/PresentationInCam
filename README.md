@@ -92,8 +92,11 @@ Table of Contents:
   ## Nationwide Scope
   
 - To resolve the shortage of medical resources
+
   -Accuracy
+  
   -Knowledge
+  
   -Experience
 
 ## Summary
