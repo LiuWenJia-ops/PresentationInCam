@@ -88,6 +88,13 @@ Table of Contents:
 - AI in biomedical research
   - perfect tool to help analyse complex data, reveal hidden patterns between diseases
   - drug discovery --- Atomwise
+  
+  ## Nationwide Scope
+  
+- To resolve the shortage of medical resources
+  -Accuracy
+  -Knowledge
+  -Experience
 
 ## Summary
 
