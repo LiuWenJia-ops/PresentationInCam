@@ -5,7 +5,7 @@ Table of Contents:
 1. Introduction _5min_
 2. AI application in Healthcare
     1. Personal Scope _5min_
-    2. Corporational Scope _5min_
+    2. Institutional Scope _5min_
     3. Nationwide _5min_
 3. Summary & Future _5min_
 
@@ -76,6 +76,18 @@ Table of Contents:
   - a deep learning algorithm to observe biopsy
 
 - Some concluding thoughts on diagnostic AI
+
+## Institutional Scope
+
+- Some problems with healthcare institutions
+    -tbc
+- AI can be your personal health expert
+    - Online Doctor Consultations & Advice by Babylon Health Company
+- AI in hospital management
+    - Analytics MD
+- AI in biomedical research
+    - perfect tool to help analyse complex data, reveal hidden patterns between diseases
+    - drug discovery --- Atomwise
 
 ## Summary
 
