@@ -118,7 +118,8 @@ Table of Contents:
     - Decreasing error rate
 - Something about Al's future
 
-<details summary="details">
+<details>
+<summary>this part can be adjusted according to the time</summary>
 
 - Inspiration from Scientific fiction / movies / games --- "They are not only stories, but maybe out future."
   - Isaac Asimov's "Three Laws of Robotics" in _I, Robot_
