@@ -117,19 +117,25 @@ Table of Contents:
     - Increasing Neuron network size
     - Decreasing error rate
 - Something about Al's future
-  - Inspiration from Scientific fiction / movies / games --- "They are not only stories, but maybe out future."
-    - Isaac Asimov's "Three Laws of Robotics" in _I, Robot_
-      1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-      2. A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
-      3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
-    - Enhanced Turing test from Nathan in _Ex Machina_
-      - Turing test can't judge real intelligence
-      - communicate with human face to face
-      - Emotion
-    - _Doraemon_ and _Detroit: Become Human_
-      - Harmony or Revolution?
-  - What we've prepared
-    - Development in robot ethics
+
+<details summary="details">
+
+- Inspiration from Scientific fiction / movies / games --- "They are not only stories, but maybe out future."
+  - Isaac Asimov's "Three Laws of Robotics" in _I, Robot_
+    1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+    2. A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
+    3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+  - Enhanced Turing test from Nathan in _Ex Machina_
+    - Turing test can't judge real intelligence
+    - communicate with human face to face
+    - Emotion
+  - _Doraemon_ and _Detroit: Become Human_
+    - Harmony or Revolution?
+- What we've prepared
+  - Development in robot ethics
+  
+</details>
+
 - Back to healthcare industry
   - Replace doctors and nurses
   - The accountability
