@@ -65,16 +65,23 @@ Table of Contents:
 
 ## Personal Scope
 
-- Challenges in medical diagnosis
+- KNOWLEDGES  UP FRONT 
+  - Medical Diagnosis 
+    - Medical diagnosis is the process of determining which disease or condition explains a person's symptoms and signs. 
+    - Diagnosis is often challenging, because many signs and symptoms are nonspecific. 
+  - Diagnostic Error
+    - A diagnostic error emerges when a diagnosis is missed, inappropriately delayed or is wrong.【WHO report 2016】
+    - Diagnostic errors can lead to significant loss of property and life (The Institute of Medicine at the National Academies of Science, Engineering and Medicine reports that “diagnostic errors contribute to approximately 10 percent of patient deaths ; antoher reaseach by Johns Hopkins shows that Diagnosis-related payments amounted to $38.8 billion between 1986 and 2010)
+  - AI in Medical Diagnosis
+    - an algorithm to diagnose skin cancer  by Stanford
+    - a deep learning algorithm to observe biopsy
 
 - AI in early dedection of cancer
 
   - a deep learning algorithm to diagnose skin cancer
-
 - AI in Pathology
 
   - a deep learning algorithm to observe biopsy
-
 - Some concluding thoughts on diagnostic AI
 
 ## Institutional Scope
