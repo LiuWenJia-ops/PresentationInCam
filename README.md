@@ -96,15 +96,13 @@ Table of Contents:
   - perfect tool to help analyse complex data, reveal hidden patterns between diseases
   - drug discovery --- Atomwise
   
-  ## Nationwide Scope
-  
-- To resolve the shortage of medical resources
+## Gap btw the present and the future
 
-  -Accuracy
+-Accuracy
   
-  -Knowledge
+-Knowledge
   
-  -Experience
+-Experience
 
 ## Summary
 
