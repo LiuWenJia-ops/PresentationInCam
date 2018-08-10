@@ -65,10 +65,10 @@ Table of Contents:
 
 ## Personal Scope
 
-- KNOWLEDGES  UP FRONT 
-  - Medical Diagnosis 
-    - Medical diagnosis is the process of determining which disease or condition explains a person's symptoms and signs. 
-    - Diagnosis is often challenging, because many signs and symptoms are nonspecific. 
+- KNOWLEDGES  UP FRONT
+  - Medical Diagnosis
+    - Medical diagnosis is the process of determining which disease or condition explains a person's symptoms and signs.
+    - Diagnosis is often challenging, because many signs and symptoms are nonspecific.
   - Diagnostic Error
     - A diagnostic error emerges when a diagnosis is missed, inappropriately delayed or is wrong.【WHO report 2016】
     - Diagnostic errors can lead to significant loss of property and life (The Institute of Medicine at the National Academies of Science, Engineering and Medicine reports that “diagnostic errors contribute to approximately 10 percent of patient deaths ; antoher reaseach by Johns Hopkins shows that Diagnosis-related payments amounted to $38.8 billion between 1986 and 2010)
@@ -96,15 +96,17 @@ Table of Contents:
   - perfect tool to help analyse complex data, reveal hidden patterns between diseases
   - drug discovery --- Atomwise
   
-  ## Nationwide Scope
-  
-- To resolve the shortage of medical resources
+## Nationwide Scope
 
-  -Accuracy
-  
-  -Knowledge
-  
-  -Experience
+- UK government's investment plan to AI diagnosis
+  - NHS
+- Polling part
+  - 3 charts
+- Accuracy
+- How to improve/ how it works
+  - knowledge
+  - experience
+- Education...
 
 ## Summary
 
@@ -119,19 +121,26 @@ Table of Contents:
     - Increasing Neuron network size
     - Decreasing error rate
 - Something about Al's future
-  - Inspiration from Scientific fiction / movies / games --- "They are not only stories, but maybe out future."
-    - Isaac Asimov's "Three Laws of Robotics" in _I, Robot_
-      1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-      2. A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
-      3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
-    - Enhanced Turing test from Nathan in _Ex Machina_
-      - Turing test can't judge real intelligence
-      - communicate with human face to face
-      - Emotion
-    - _Doraemon_ and _Detroit: Become Human_
-      - Harmony or Revolution?
-  - What we've prepared
-    - Development in robot ethics
+
+<details>
+<summary>this part can be adjusted according to the time</summary>
+
+- Inspiration from Scientific fiction / movies / games --- "They are not only stories, but maybe out future."
+  - Isaac Asimov's "Three Laws of Robotics" in _I, Robot_
+    1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+    2. A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
+    3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+  - Enhanced Turing test from Nathan in _Ex Machina_
+    - Turing test can't judge real intelligence
+    - communicate with human face to face
+    - Emotion
+  - _Doraemon_ and _Detroit: Become Human_
+    - Harmony or Revolution?
+- What we've prepared
+  - Development in robot ethics
+
+</details>
+
 - Back to healthcare industry
   - Replace doctors and nurses
   - The accountability
