@@ -95,14 +95,18 @@ Table of Contents:
 - AI in biomedical research
   - perfect tool to help analyse complex data, reveal hidden patterns between diseases
   - drug discovery --- Atomwise
+  
+## Nationwide Scope
 
-## Gap btw the present and the future
-
--Accuracy
-
--Knowledge
-
--Experience
+- UK government's investment plan to AI diagnosis
+  - NHS
+- Polling part
+  - 3 charts
+- Accuracy
+- How to improve/ how it works
+  - knowledge
+  - experience
+- Education...
 
 ## Summary
 
